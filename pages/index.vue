@@ -6,7 +6,7 @@
       <div class="links">
         <router-link to="saunas">saunas</router-link>
         <router-link to="users">users</router-link>
-        <router-link to="visit-record">visit-record</router-link>
+        <router-link to="visit-record">visit-records</router-link>
       </div>
     </div>
   </div>
